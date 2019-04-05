@@ -1,2 +1,2 @@
-# getting-started-with-haskell-exercises
-Solutions to exercises from "Getting Started with Haskell" book
+# Getting Started With Haskell Exercises
+Solutions to exercises from [Getting Started with Haskell](https://www.manning.com/books/get-programming-with-haskell).
